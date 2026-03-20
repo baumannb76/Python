@@ -14,4 +14,4 @@ elif user_choice == 'scissors' and comp_choice == 'paper':
     print('WIN')
 else:
     print('You lose')
-#print("The computer got " + comp_choice)
+print("The computer got " + comp_choice)
