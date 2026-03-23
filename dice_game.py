@@ -16,7 +16,7 @@ def main():
     print(player2, 'rolled', roll2)
 
     if roll1 > roll2:
-        prnt(player1, 'wins!')
+        print(player1, 'wins!')
     elif roll2 > roll1:
         print(player2, 'wins!')
     else:
